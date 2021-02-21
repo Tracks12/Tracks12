@@ -1,16 +1,15 @@
-### Hi there 👋
+## [Florian Cardinal](https://floriancardinal.000webhostapp.com/)
 
-<!--
-**Tracks12/Tracks12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Web Developer
 
-Here are some ideas to get you started:
+#### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|           |        |            |           |
+| --------- | ------ | ---------- | --------- |
+| HTML5     | CSS3   | JavaScript | JQuery    |
+| BootStrap | PHP5/7 | MySQL      | Python2/3 |
+|           |        |            |           |
+
+![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracks12&show_icons=true&count_private=true&hide=contribs&theme=jolly)
+
+![Florian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tracks12&langs_count=8&theme=jolly&layout=compact)
