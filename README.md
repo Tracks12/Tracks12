@@ -1,8 +1,6 @@
-## [Florian Cardinal](https://floriancardinal.000webhostapp.com/)
+# [Florian Cardinal](https://floriancardinal.000webhostapp.com/) (Junior Web Developer)
 
-### Junior Web Developer
-
-#### Skills
+## Skills
 
 |           |        |            |           |
 | --------- | ------ | ---------- | --------- |
@@ -15,7 +13,7 @@
 
 ![Florian's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tracks12&langs_count=8&theme=jolly&layout=compact)
 
-#### Systems for work
+## Systems for work
 
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
