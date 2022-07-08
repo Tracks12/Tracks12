@@ -1,4 +1,4 @@
-# [Florian Cardinal](https://floriancardinal.000webhostapp.com/) (Junior Web Developer)
+# [Florian Cardinal](https://floriancardinal.000webhostapp.com/) (Fullstack Developer)
 
 ## Skills
 
